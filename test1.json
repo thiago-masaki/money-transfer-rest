@@ -1,0 +1,22 @@
+{
+	"Sender":{
+        "Name":"Thiago",
+        "SocialID":"001",
+        "Bank":{
+	        "Name":"Revolut",
+	        "Branch":"0001",
+	        "AccountNumber":"000001-0"
+        }
+    },
+    "Recipient":{
+        "Name":"Thiago",
+        "SocialID":"123",
+        "Bank":{
+	        "Name":"Revolut",
+	        "Branch":"0001",
+	        "AccountNumber":"000002-0"
+        }
+    },
+    "Amount":100.0,
+    "Currency":"USD"
+}
